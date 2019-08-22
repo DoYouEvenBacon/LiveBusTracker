@@ -2,8 +2,15 @@
 This web app is powered by Auckland Transport API and OpenLayers API which is based on OpenStreetMaps.
 
 ## Requirements
+```
+- The latest web browser. (This web app was developed in Google Chrome. It might not work in Safari.)
+- An Auckland Transport API key from https://dev-portal.at.govt.nz/
+```
 
 ## Setting Up
+1. Place the HTML and JavaScript files in the same directory.
+2. Put your AT API key in line 5 of the JavaScript file.
+3. The web app should now be able to run.
 
 ## Features
 * This web app allows the user to search for a bus number which will display the location of every active bus for that number. The user can set it so that the locations update every 30 seconds without having to reload the page or search again.
