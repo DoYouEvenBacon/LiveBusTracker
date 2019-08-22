@@ -4,7 +4,7 @@ This web app is powered by Auckland Transport API and OpenLayers API which is ba
 ## Requirements
 ```
 - The latest web browser. (This web app was developed in Google Chrome. Certain css animations might not work in Safari.)
-- [An Auckland Transport API key](https://dev-portal.at.govt.nz/).
+- [An Auckland Transport API key](https://dev-portal.at.govt.nz).
 ```
 
 ## Setting Up
