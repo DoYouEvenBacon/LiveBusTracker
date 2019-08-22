@@ -21,8 +21,7 @@ This web app is powered by Auckland Transport API and OpenLayers API which is ba
 ## Images of the Web App
 The inital view of the web app
 ![1_initialView](https://user-images.githubusercontent.com/45221821/63489649-cbbabf80-c506-11e9-8865-c55d5107bd97.PNG)
-
-
+<br/><br/><br/>
 ![2_showLocationStops](https://user-images.githubusercontent.com/45221821/63489653-ceb5b000-c506-11e9-8717-0f9411b94552.PNG)
 ![3_clickStopMarker](https://user-images.githubusercontent.com/45221821/63489661-d2493700-c506-11e9-87d3-7eec8a6b6b38.PNG)
 ![4_searchBus](https://user-images.githubusercontent.com/45221821/63489666-d412fa80-c506-11e9-9cf7-6bb983668a22.PNG)
