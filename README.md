@@ -1,5 +1,9 @@
 # LiveBusTracker
-This web app is powered by Auckland Transport API and OpenLayers API which is based on OpenStreetMaps. The inital idea for this app was to have it show where the live locations of all the buses were, because the real-time board can be inaccurate especially during peak hours where the estimated arrival time would fluctuate up and down.
+This web app is powered by Auckland Transport API and OpenLayers API which is based on OpenStreetMaps. 
+
+The initial idea for this app was to have it show where the live locations of all the buses were, because the real-time board can be inaccurate especially during peak hours where the estimated arrival time would fluctuate up and down.
+
+I used OpenStreetMaps and consequently OpenLayers because of the limitations of the new Google Maps API which charges for a lot of basic features. I found a few workarounds when building my previous web app on Google Maps so as to avoid having to pay for features, but it did lead to a lot of frustration.
 ## Requirements
 - The latest web browser. (This web app was developed in Google Chrome. Certain css animations might not work in Safari.)
 - [An Auckland Transport API key](https://dev-portal.at.govt.nz/).
