@@ -34,7 +34,7 @@ This web app is powered by Auckland Transport API and OpenLayers API which is ba
 ![4_searchBus](https://user-images.githubusercontent.com/45221821/63489666-d412fa80-c506-11e9-9cf7-6bb983668a22.PNG)
 ![4-5_searchBus](https://user-images.githubusercontent.com/45221821/63489669-d70deb00-c506-11e9-817d-746533cdb919.PNG)
 <br/><br/>
-- There is a button that will toggle an automatic update of the bus locations. The web app doesn't automatically do it to reduce the number of calls made to the Auckland Transport APIs. 
+- There is a button that will toggle an automatic update of the bus locations. The web app doesn't automatically do it to reduce the number of calls made to the Auckland Transport APIs.<br/>
 ![5_autoUpdateBusLocation](https://user-images.githubusercontent.com/45221821/63489674-d9704500-c506-11e9-8001-cb2568e16965.PNG)
 <br/><br/>
 - Clicking on one of the live bus icons will show a popup box with information about that bus, including the seat capacity and the time and location of its next stop.
@@ -44,6 +44,6 @@ This web app is powered by Auckland Transport API and OpenLayers API which is ba
 ![7_clickStopInformation](https://user-images.githubusercontent.com/45221821/63489681-de34f900-c506-11e9-90c9-dc7300bff78a.PNG)
 <br/><br/><br/>
 **Third Main Feature**
-- The user can search a bus stop number and see the live timetable; the same timetable they would see on the electronic board at the stop.
+- The user can search a bus stop number and see the live timetable; the same timetable they would see on the electronic board at the stop.<br/>
 ![8_searchStopNumber](https://user-images.githubusercontent.com/45221821/63489689-dffebc80-c506-11e9-9338-5fc0509fbec4.PNG)
 ![8-5_searchStopNumber](https://user-images.githubusercontent.com/45221821/63489691-e1c88000-c506-11e9-9a14-9ba92dc21ae9.PNG)
