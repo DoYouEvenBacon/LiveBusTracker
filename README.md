@@ -1,4 +1,4 @@
-# LiveBusTracker - Work in Progress
+# LiveBusTracker
 This web app is powered by Auckland Transport API and OpenLayers API which is based on OpenStreetMaps.
 
 ## Requirements
